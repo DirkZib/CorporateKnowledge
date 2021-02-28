@@ -1,4 +1,4 @@
-const mongoUri = 'mongodb+srv://AdminCK:LindenbergerRing@corporateknowledge.mexm6.mongodb.net/corporateknowledge?retryWrites=true&w=majority'
+const mongoUri = 'mongodb+srv://USER:PW@corporateknowledge.mexm6.mongodb.net/corporateknowledge?retryWrites=true&w=majority'
 const mongoose = require('mongoose')
 
 const connectDB = async () => {
